@@ -3,4 +3,6 @@ Kullanıcı giriş arayüz paneli ile Asp.Net Core MVC Projesinde Kullanıcı Ki
 
 
 
-[![Demo Video](https://img.youtube.com/vi/YTJDD-VCdSAU)(https://youtu.be/TJDD-VCdSAU)]
+
+https://github.com/OzanAgdepe/AuthRegisterAndLogin/assets/140605470/531c0300-b0cf-4a21-938b-656d2c8d6b50
+
